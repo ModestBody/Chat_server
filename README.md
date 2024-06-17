@@ -1,1 +1,1 @@
-# Chat_server
+# Chat_server Использовал протокол TCP.
